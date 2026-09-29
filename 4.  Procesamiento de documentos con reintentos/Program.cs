@@ -197,7 +197,7 @@ internal class Program
                     if (respuesta != null && respuesta.Trim().ToLower() == "s")
                     {
                         impresos.Add(actual);
-                        Console.WriteLine($"✅ Documento '{actual.NombreDocumento}' impreso correctamente.");
+                        Console.WriteLine($"Documento '{actual.NombreDocumento}' impreso correctamente.");
                     }
                     else
                     {
