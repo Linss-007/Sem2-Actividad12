@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="1. Validación de símbolos en una expresión/1. Validación de símbolos en una expresión.csproj" Id="1fd42bd0-ebc5-4e8b-a99d-aaa218ff6b00" />
   <Project Path="2. Sistema de deshacer y rehacer/2. Sistema de deshacer y rehacer.csproj" Id="a7ff5d8c-c743-4e28-9096-82c02237aa63" />
   <Project Path="3. Atención de pacientes según prioridad/3. Atención de pacientes según prioridad.csproj" Id="ed0615e4-411d-4cbf-9b85-c3efb00f3685" />
 </Solution>
